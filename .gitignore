@@ -1,2 +1,6 @@
 .dat
 *.dat
+keys.py
+keys.pyc
+*.out
+.out
